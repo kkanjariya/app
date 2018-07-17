@@ -16,11 +16,11 @@ Route::get('/', function () {
 });
 
 
-get('about' , function (){
+Route::get('about' , function (){
 
     
 });
 
-grt('testerror' ,function (){
-    
+Route::get('testerror' ,function (){
+
 });
