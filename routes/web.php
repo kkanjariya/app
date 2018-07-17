@@ -20,3 +20,7 @@ get('about' , function (){
 
     
 });
+
+grt('testerror' ,function (){
+    
+});
